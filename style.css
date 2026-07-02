@@ -1,0 +1,14 @@
+:root{
+    --primary : #7C4EE4;
+    --greycolor : #333333;
+    /* --maincolor :#F5F7FA;  */
+}
+.purpel{
+    color: var(--primary);
+}
+.textgrey{
+    color: var(--greycolor);
+}
+.active{
+    background-color: var(--primary);
+}
