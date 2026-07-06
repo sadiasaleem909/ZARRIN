@@ -56,5 +56,7 @@ border-bottom: 1px solid #7C4EE4;
 
 
 @media screen and (min-width:576px) and (max-width:768px){
-
+.heroimg{
+    width: 100%;
+}
 }
