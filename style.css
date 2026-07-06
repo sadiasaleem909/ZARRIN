@@ -3,12 +3,58 @@
     --greycolor : #333333;
     /* --maincolor :#F5F7FA;  */
 }
-.purpel{
-    color: var(--primary);
+.purpeltext{
+    color: var(--primary) !important;
 }
 .textgrey{
     color: var(--greycolor);
 }
-.active{
-    background-color: var(--primary);
+.bgcolor{
+    color: aliceblue;
+    background-color: var(--primary) !important;
+}
+.bgherocolor{
+background: var(--primary);
+
+}
+
+.btncolor{
+color: var(--primary);
+border: 1px solid #7C4EE4;
+}
+.imgdiv{
+    
+}
+
+.textread{
+color: var(--primary) !important;
+}
+
+
+.borderfooter{
+border-bottom: 1px solid #7C4EE4;
+}
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:576px){
+.heroimg{
+    width: 100%;
+}
+.posth{
+    font-size: 20px !important;
+}
+
+
+}
+
+
+@media screen and (min-width:576px) and (max-width:768px){
+
 }
